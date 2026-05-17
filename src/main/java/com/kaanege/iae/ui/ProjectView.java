@@ -10,7 +10,6 @@ import com.kaanege.iae.service.ProjectService;
 import com.kaanege.iae.service.ResultService;
 import com.kaanege.iae.service.RunnerService;
 import com.kaanege.iae.service.SubmissionService;
-import com.kaanege.iae.service.ZipService;
 import javafx.geometry.Insets;
 import javafx.geometry.Rectangle2D;
 import javafx.scene.Scene;

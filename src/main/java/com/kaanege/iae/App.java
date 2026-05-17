@@ -1,7 +1,6 @@
 package com.kaanege.iae;
 
 import com.kaanege.iae.db.DatabaseManager;
-import com.kaanege.iae.ui.MainView;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
